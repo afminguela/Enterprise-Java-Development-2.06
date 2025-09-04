@@ -1,7 +1,9 @@
 package org.YronJack;
 import java.util.*;
 
-/
+/**
+ * Student class representing a student with name and grade (0-100)
+ */
 public class Student {
     private String name;
     private int grade;
